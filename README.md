@@ -10,21 +10,23 @@ For citations:\
 Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SPX and VIX options with signature-based models.
 ```
 @article{CGMS:23,
-      title={{Joint calibration to SPX and VIX options with signature-based models}}, 
-      author={Cuchiero, C. and Gazzani, G. and Möller, J. and Svaluto-Ferro S.},
-      journal={To add},
-      year={2023}}
+  title={{Joint calibration of SPX and VIX options with signature-based models}},
+  author={Cuchiero, C. and Gazzani, G. and Möller, J. and Svaluto-Ferro, S.},
+  journal={Preprint arXiv:2301.13235},
+  year={2023}
+}
 ```
 
 
-In the present repository you will find the following material.
+In the present repository you will find the following material. Recall that data were purchase from OptionMetrics and therefore are not present in the current repository.
 <div class="about">
                 <h2 style="color:#06386D"><b>Sampler for a type of signature-based model</b></h2>
   <ul>
-<li>To add</li><br>
+<li>Code for sampling: the Cholesky matrix for the VIX, the linear regression basis on Z for the log-price and the matrix Q0 for the log-price. </li><br>
+        <li>For the VIX squared both numerical integration and exact simulation are reported see Remark 5.4 in the paper. </li><br>
   </ul>
   </div>
-  Some comments on the sampler can be found in (add references) of the paper.
+  Some comments on the sampler can be found in the paper.
   
   <div class="about">
                 <h2 style="color:#06386D"><b>Joint calibration to SPX and VIX options with constant parameters</b></h2>
@@ -32,19 +34,8 @@ In the present repository you will find the following material.
 <li>Code for calibration to option prices of SPX and VIX options.</li><br>
   </ul>
   </div>
-  Details of the calibration to option prices with signature-based models can be found in Section (to add) of the paper.
-    <div class="about">
-                <h2 style="color:#06386D"><b>Joint calibration to SPX and VIX options with time-varying parameters</b></h2>
-  <ul>
-<li>Code for calibration to option prices of SPX and VIX options. (specify files .py )</li><br>
-  </ul>
-  </div>
-      <div class="about">
-                <h2 style="color:#06386D"><b>Sampler of time-series of SPX and VIX with calibrated parameters</b></h2>
-  <ul>
-<li>To add</li><br>
-  </ul>
-  </div>
+  Details of the calibration to option prices with signature-based models can be found in Section 7 of the paper.
+ 
   
   
   <br>
