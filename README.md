@@ -18,7 +18,7 @@ Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SP
 ```
 
 
-In the present repository you will find the following material. Recall that data were purchase from OptionMetrics and therefore are not present in the current repository.
+In the present repository you will find the following material. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository.
 <div class="about">
                 <h2 style="color:#06386D"><b>Sampler for a type of signature-based model</b></h2>
   <ul>
