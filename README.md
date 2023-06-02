@@ -18,7 +18,17 @@ Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SP
 ```
 
 
-In the present repository you will find the following material. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository.
+In the present repository you will find the following material. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository. We address the interested reader to our first work for an introduction to signature-based models in mathematical finance (forthcoming in SIAM Journal on Financial Mathematics):
+
+Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and calibration.
+```
+@article{CGS:22,
+  title={{Signature-based models: theory and calibration}},
+  author={Cuchiero, C. and Gazzani, G. and Möller, J. and Svaluto-Ferro, S.},
+  journal={Preprint arXiv:2207.13136},
+  year={2022}
+}
+```
 <div class="about">
                 <h2 style="color:#06386D"><b>Sampler for a type of signature-based model</b></h2>
   <ul>
