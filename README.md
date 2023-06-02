@@ -51,7 +51,7 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
   
   
   
-  ![vix_smiles_calibrated.png](vix_smiles_calibrated.png.png)
+  ![VIX](vix_smiles_calibrated.png)
   <br>
 <br>
   <br>
