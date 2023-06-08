@@ -16,7 +16,8 @@ Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SP
   year={2023}
 }
 ```
-
+Click <a href='https://arxiv.org/abs/2301.13235'> here </a> to be redirected to the preprint on ArXiv.
+<br>
 
 In the present repository you will find the following material. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository. We address the interested reader to our first work for an introduction to signature-based models in mathematical finance (forthcoming in SIAM Journal on Financial Mathematics):
 
