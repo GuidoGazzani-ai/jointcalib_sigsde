@@ -30,6 +30,9 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
   year={2022}
 }
 ```
+Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to the preprint on ArXiv.
+
+
 <div class="about">
                 <h2 style="color:#06386D"><b>Sampler for a type of signature-based model</b></h2>
   <ul>
