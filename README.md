@@ -53,7 +53,11 @@ Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to 
   
   
   
-  
+  ![joint0](joint_calibration_SPX[0,2]_VIX[0] (1).png)
+  ![joint1](joint_calibration_SPX[4]_VIX[1] (1).png)
+<br>
+  <br>
+    <br>
   
   ![VIX](vix_smiles_calibrated.png)
   <br>
