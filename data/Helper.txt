@@ -1,0 +1,9 @@
+arr_calib_iv_spx.npy : np.array with calibrated implied volatilites of spx smiles
+arr_calib_iv_vix.npy : np.array with calibrated implied volatilites of vix smiles
+arr_strikes_vix.npy : np.array with strikes of vix smiles
+arr_strikes_spx.npy : np.array with strikes of spx smiles
+ell_optimal_first_joint.npy : np.array with calibrated parameters
+optimal_VIX_futures.npy : np.array with calibrated vix futures
+prices_optimal_SPX_i.npy: np.array with the calibrated option prices for the i-th spx smile
+prices_optimal_VIX_j.npy: np.array with the calibrated option prices for the j-th spx smile
+
