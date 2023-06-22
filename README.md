@@ -1,6 +1,6 @@
 # jointcalib_sigsde
 
-This is a collection of Jupyter notebooks and Python files which have been used in the article:<br><br> 
+This is a collection of Python files which have been used in the article:<br><br> 
 "Joint calibration to SPX and VIX options with signature-based models" <br><br>
 of <a href ="https://www.mat.univie.ac.at/~cuchiero/">Christa Cuchiero</a>, <a href ="https://homepage.univie.ac.at/guido.gazzani/">Guido Gazzani</a>,  <a href ="https://quarimafi.univie.ac.at/about-us/janka-moeller/">Janka Möller</a> and <a href ="https://sites.google.com/view/sarasvaluto-ferro">Sara Svaluto-Ferro</a>.
 
@@ -25,18 +25,19 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
 ```
 @article{CGS:22,
   title={{Signature-based models: theory and calibration}},
-  author={Cuchiero, C. and Gazzani, G. and Möller, J. and Svaluto-Ferro, S.},
+  author={Cuchiero, C. and Gazzani, G. and Svaluto-Ferro, S.},
   journal={Preprint arXiv:2207.13136},
   year={2022}
 }
 ```
 Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to the preprint on ArXiv.
 
-
+We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where another implementation of the expected signature of a polynomial process can be found.
 <div class="about">
-                <h2 style="color:#06386D"><b>Sampler for a type of signature-based model</b></h2>
+                <h2 style="color:#06386D"><b>Sampler for the log-price and the VIX squared</b></h2>
   <ul>
-<li>Code for sampling: the Cholesky matrix for the VIX, the linear regression basis on Z for the log-price and the matrix Q0 for the log-price. </li><br>
+<li>Code for sampling: the Cholesky matrix for the VIX/VIX squared (see Remark 5.5)</li><br>
+<li>Code for sampling: the log-price in particular the matrix Q^0 and the regression basis \tilde{e}^{B} (Proposition 6.5, Equation 6.3)</li><br>
         <li>For the VIX squared both numerical integration and exact simulation are reported see Remark 5.4 in the paper. </li><br>
   </ul>
   </div>
