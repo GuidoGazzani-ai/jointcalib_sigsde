@@ -38,7 +38,7 @@ Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.  Signature SDEs from an affine and
 ```
 @article{CST:23,
   title={{Signature SDEs from an affine and polynomial perspective}},
-  author={Cuchiero, C. and Gazzani, G. and Svaluto-Ferro, S.},
+  author={Cuchiero, C. and Svaluto-Ferro, S. and Teichmann, J.},
   journal={Preprint arXiv:2302.01362},
   year={2023}
 }
