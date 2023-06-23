@@ -43,6 +43,7 @@ Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.  Signature SDEs from an affine and
   year={2023}
 }
 ```
+Click <a href='https://arxiv.org/abs/2302.01362'> here </a> to be redirected to the preprint on ArXiv.
 
 
 
