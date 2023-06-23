@@ -19,7 +19,9 @@ Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SP
 Click <a href='https://arxiv.org/abs/2301.13235'> here </a> to be redirected to the preprint on ArXiv.
 <br>
 
-In the present repository you will find the following material. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository. We address the interested reader to our first work for an introduction to signature-based models in mathematical finance (forthcoming in SIAM Journal on Financial Mathematics):
+The codes that compose the present repository rely strongly on the theory outlined in the article in section 4, 5 and 6. In particular the use of the polynomial processes' theory for the computation of the conditional expected signature of a polynomial process. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository. 
+
+For an introduction to signature-based models in mathematical finance we address the reader to (forthcoming in SIAM Journal on Financial Mathematics):
 
 Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and calibration.
 ```
@@ -32,19 +34,9 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
 ```
 Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to the preprint on ArXiv.
 
-We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where a more general implementation of the expected signature of a polynomial process can be found. In particular there one can easily specify the generic parametric form of the desired polynomial diffusion of which the user is interested to compute the time-extended expected signature. Complementary to the approach of polynomial processes, there one can find also the computation of the Laplace transform in the Brownian setting, via the theory of affine processes. For details on the theory we refer to 
+We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where a more general implementation of the expected signature of a polynomial process can be found. For details on the theory we refer to 
 
-Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.  Signature SDEs from an affine and polynomial perspective.
-```
-@article{CST:23,
-  title={{Signature SDEs from an affine and polynomial perspective}},
-  author={Cuchiero, C. and Svaluto-Ferro, S. and Teichmann, J.},
-  journal={Preprint arXiv:2302.01362},
-  year={2023}
-}
-```
-Click <a href='https://arxiv.org/abs/2302.01362'> here </a> to be redirected to the preprint on ArXiv.
-
+Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.   <a href='https://arxiv.org/abs/2302.01362'>Signature SDEs from an affine and polynomial perspective.</a>
 
 
 <div class="about">
