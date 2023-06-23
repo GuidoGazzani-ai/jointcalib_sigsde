@@ -32,7 +32,20 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
 ```
 Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to the preprint on ArXiv.
 
-We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where another implementation of the expected signature of a polynomial process can be found.
+We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where a more general implementation of the expected signature of a polynomial process can be found. In particular there one can easily specify the generic parametric form of the desired polynomial diffusion of which the user is interested to compute the time-extended expected signature. Complementary to the approach of polynomial processes, there one can find also the computation of the Laplace transform in the Brownian setting, via the theory of affine processes. For details on the theory we refer to 
+
+Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.  Signature SDEs from an affine and polynomial perspective.
+```
+@article{CST:23,
+  title={{Signature SDEs from an affine and polynomial perspective}},
+  author={Cuchiero, C. and Gazzani, G. and Svaluto-Ferro, S.},
+  journal={Preprint arXiv:2302.01362},
+  year={2023}
+}
+```
+
+
+
 <div class="about">
                 <h2 style="color:#06386D"><b>Sampler for the log-price and the VIX squared</b></h2>
   <ul>
