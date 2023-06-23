@@ -7,7 +7,7 @@ of <a href ="https://www.mat.univie.ac.at/~cuchiero/">Christa Cuchiero</a>, <a h
 
 For citations:\
 **MDPI and ACS Style**\
-Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SPX and VIX options with signature-based models.
+Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. <a href='https://arxiv.org/abs/2301.13235'>Joint calibration to SPX and VIX options with signature-based models</a>.
 ```
 @article{CGMS:23,
   title={{Joint calibration of SPX and VIX options with signature-based models}},
@@ -16,14 +16,13 @@ Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. Joint calibration to SP
   year={2023}
 }
 ```
-Click <a href='https://arxiv.org/abs/2301.13235'> here </a> to be redirected to the preprint on ArXiv.
 <br>
 
 The codes that compose the present repository rely strongly on the theory outlined in the article in section 4, 5 and 6. In particular the use of the polynomial processes' theory for the computation of the conditional expected signature of a polynomial process. Recall that data were purchased from OptionMetrics and therefore are not present in the current repository. 
 
 For an introduction to signature-based models in mathematical finance we address the reader to (forthcoming in SIAM Journal on Financial Mathematics):
 
-Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and calibration.
+Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. <a href='https://arxiv.org/abs/2207.13136'>Signature-based models: theory and calibration</a>.
 ```
 @article{CGS:22,
   title={{Signature-based models: theory and calibration}},
@@ -32,8 +31,6 @@ Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. Signature-based models: theory and 
   year={2022}
 }
 ```
-Click <a href='https://arxiv.org/abs/2207.13136'> here </a> to be redirected to the preprint on ArXiv.
-
 We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where a more general implementation of the expected signature of a polynomial process can be found. For details on the theory we refer to 
 
 Cuchiero, C.; Svaluto-Ferro, S; Teichmann, J.   <a href='https://arxiv.org/abs/2302.01362'>Signature SDEs from an affine and polynomial perspective.</a>
