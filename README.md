@@ -10,10 +10,11 @@ For citations:\
 Cuchiero, C.; Gazzani, G.; Möller J.; Svaluto-Ferro, S. <a href='https://arxiv.org/abs/2301.13235'>Joint calibration to SPX and VIX options with signature-based models</a>.
 ```
 @article{CGMS:23,
-  title={{Joint calibration of SPX and VIX options with signature-based models}},
-  author={Cuchiero, C. and Gazzani, G. and Möller, J. and Svaluto-Ferro, S.},
-  journal={Preprint arXiv:2301.13235},
-  year={2023}
+  title={{Joint calibration to SPX and VIX options with signature-based model}},
+  author={Cuchiero, C. and Gazzani, G. and M\"oller, J. and Svaluto-Ferro, S.},
+  journal={Mathematical Finance},
+pages={1–53},
+  year={2024}
 }
 ```
 <br>
