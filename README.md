@@ -25,11 +25,15 @@ For an introduction to signature-based models in mathematical finance we address
 
 Cuchiero, C.; Gazzani, G.; Svaluto-Ferro, S. <a href='https://arxiv.org/abs/2207.13136'>Signature-based models: theory and calibration</a>.
 ```
+
 @article{CGS:22,
-  title={{Signature-based models: theory and calibration}},
-  author={Cuchiero, C. and Gazzani, G. and Svaluto-Ferro, S.},
-  journal={Preprint arXiv:2207.13136},
-  year={2022}
+  author = {Cuchiero, C. and Gazzani, G. and Svaluto-Ferro, S.},
+title = {Signature-Based Models: Theory and Calibration},
+journal = {SIAM Journal on Financial Mathematics},
+volume = {14},
+number = {3},
+pages = {910-957},
+year = {2023}
 }
 ```
 We reference additionally to the Github repository  <a href='https://github.com/sarasvaluto/AffPolySig'> AffPolySig </a>, where a more general implementation of the expected signature of a polynomial process can be found. For details on the theory we refer to 
